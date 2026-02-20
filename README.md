@@ -21,8 +21,7 @@ A security-oriented password strength checker with real-time feedback and scorin
 1. Clone the repository:
    ```bash
    git clone https://github.com/hesenislam/Password-Strength-Checker.git
-2.Open  ```bash 
-index.html in your browser
+2.Open index.html in your browser
 
 3.Enter your password to see strength evaluation
 
